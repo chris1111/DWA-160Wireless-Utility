@@ -2,7 +2,7 @@
 
 ### An old D-Link project that I redid to adapt it to macOS Big Sur 11
 
-### Works for macOS Big Sur 11 only!
+### Works for macOS Big Sur 11 only! (DO NOT USE ON OTHER OS's)
 
 ### To using this program SIP security (Fully disable) 
 - csrutil disable 

@@ -26,7 +26,7 @@
 - [(Mediatek)](https://www.mediatek.com)
 - [(ghost8282)](https://www.insanelymac.com/forum/profile/2241085-ghost8282/)
 
-## Follow Video  from Big Sur  11 Install OpenCore⬇︎
+## Follow Video  from Big Sur  11 ⬇︎
 
 [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/zjtOGSdbtVs)
 

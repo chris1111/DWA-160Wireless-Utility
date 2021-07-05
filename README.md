@@ -4,6 +4,9 @@
 
 ### Works for macOS Big Sur 11 only! (DO NOT USE ON OTHER OS's)
 
+### Support Drivers:
+- MT7601, MT7610, RT5370, RT2870, RT3071, RT2770, RT5572, RT3572, RT3072, RT3070, RT3573
+
 ### To using this program SIP security (Fully disable) 
 - csrutil disable 
 - csrutil authenticated-root disable 

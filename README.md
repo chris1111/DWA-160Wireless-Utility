@@ -25,8 +25,8 @@
 - [(D-Link)](https://us.dlink.com/en/consumer) 
 - [(Mediatek)](https://www.mediatek.com)
 - [(ghost8282)](https://www.insanelymac.com/forum/profile/2241085-ghost8282/)
-- [Jacklude](https://github.com/jacklukem)
-- [Script Debuger](https://latenightsw.com) 
+- [(Jacklude)](https://github.com/jacklukem)
+- [(Script Debuger)](https://latenightsw.com) 
 
 
 ## Follow Video  from Big Sur  11 ⬇︎

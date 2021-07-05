@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>DWA-160WirelessUtility</string>
+	<key>CFBundleIconFile</key>
+	<string>VendorIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Ralink.RaConfig2500USBPane.DWA160</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>DWA-160</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.6.2.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2.6.2.0</string>
+	<key>NSMainNibFile</key>
+	<string>DWA160PPane</string>
+	<key>NSPrefPaneIconFile</key>
+	<string>VendorIcon.icns</string>
+	<key>NSPrincipalClass</key>
+	<string>RaConfig2500PreferencePane</string>
+</dict>
+</plist>

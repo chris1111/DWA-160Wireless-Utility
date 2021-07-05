@@ -1,6 +1,6 @@
 # DWA-160Wireless Utility
 
-### An old D-Link project that I redid to adapt it to macOS Big Sur 11 and macOS Monterey 12
+### An old D-Link project that I redid to adapt it to macOS Big Sur 11
 
 ### Works for macOS Big Sur 11 only!
 

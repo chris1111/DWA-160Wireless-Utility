@@ -3,6 +3,7 @@
 ### An old D-Link project that I redid to adapt it to macOS Big Sur 11
 
 ### Works for macOS Big Sur 11 only! (DO NOT USE ON OTHER OS's)
+- Warning: this package replaces system files and could render your system unbootable.
 
 ### Support Drivers: ☞ (Mediatek) 
 - MT7601, MT7610, RT5370, RT2870, RT3071, RT2770, RT5572, RT3572, RT3072, RT3070, RT3573

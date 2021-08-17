@@ -38,7 +38,7 @@
 
 ## Follow Video  from Big Sur  11 ⬇︎
 
-[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/Z1ykWSjL-5k)
+[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://www.youtube.com/watch?v=TgMOAieC-Fg)
 
 #### Download release ➤ V2 [DWA-160Wireless Utility.zip](https://github.com/chris1111/DWA-160Wireless-Utility/releases/tag/V2)
 

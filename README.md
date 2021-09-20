@@ -5,7 +5,7 @@
 ### Works for macOS Big Sur 11 only! (DO NOT USE ON OTHER OS's)
 - Warning: this package replaces system files and could render your system unbootable.
 
-- Update 17 august 2021 Programis fix Test in Big Sur 11.5.1, Big Sur 11.5.2 (succes)
+- Update 17 august 2021 Program is fix Test in Big Sur 11.5.1, Big Sur 11.5.2 (succes)
 
 ### Support Drivers: ☞ (Mediatek) 
 - MT7601, MT7610, RT5370, RT2870, RT3071, RT2770, RT5572, RT3572, RT3072, RT3070, RT3573, MT7621U
@@ -18,7 +18,8 @@
 
 - OpenCore or Clover config setup:
 - csr-active-config ☞ EF0F0000 
-- Warning: Do not use RT2870USBWirelessDriver.kext in bootloader injection as this will cause a conflict.
+### Warning: Do not use RT2870USBWirelessDriver.kext in bootloader injection as this will cause a conflict.
+- This package Install system files in /S/L/E and could render your system unbootable.
 
 ### This program will install RT2870USBWirelessDriver.kext /System/Library/Extensions.
 

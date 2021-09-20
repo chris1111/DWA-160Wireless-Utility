@@ -20,6 +20,7 @@
 - csr-active-config ☞ EF0F0000 
 ### Warning: Do not use RT2870USBWirelessDriver.kext in bootloader injection as this will cause a conflict.
 - This package Install system files in /S/L/E and could render your system unbootable.
+- If you change the csr active config values, make sure to do a Reset NVRAM before rebooting the system.
 
 ### This program will install RT2870USBWirelessDriver.kext /System/Library/Extensions.
 
